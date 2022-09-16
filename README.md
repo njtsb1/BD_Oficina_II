@@ -1,4 +1,4 @@
-# Build a Logical Database Design from Scratch - Mechanical Workshop
+# Building a Logical Database Design from Scratch - Mechanical Workshop
 
 Project developed at Digital Innovation One's Bootcamp Database Experience with expert guidance [Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-00349426/ "Juliana Mascarenhas").
 
